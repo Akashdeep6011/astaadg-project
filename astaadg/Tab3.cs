@@ -25,7 +25,6 @@ namespace astaadg
         Spinner spinnerView;
         
         Spinner clothingImage;   
-
         Realm realmDB;              
         MyCustomAdapter myAdapter;  
 

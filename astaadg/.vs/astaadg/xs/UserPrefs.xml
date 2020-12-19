@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{7FB75695-A2BD-464A-8A57-98585FBC2F7D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fragment2.cs">
+    <Files>
+      <File FileName="Fragment2.cs" Line="1" Column="1" />
+      <File FileName="Fragment3.cs" />
+      <File FileName="Resources/Resource.designer.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="astaadg" expanded="True">
+            <Node name="astaadg" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
+              <Node name="Fragment2.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.astaadg PreferredExecutionTarget="Android.pixel_2_lollipop_5_1_-_api_22" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

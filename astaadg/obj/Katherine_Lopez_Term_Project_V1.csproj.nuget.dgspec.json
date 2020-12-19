@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/zumairsadeeq/Desktop/xamarian/untitled folder/Katherine_Lopez_Term_Project_V1 (2)/Katherine_Lopez_Term_Project_V1/Katherine_Lopez_Term_Project_V1.csproj": {}
+  },
+  "projects": {
+    "/Users/zumairsadeeq/Desktop/xamarian/untitled folder/Katherine_Lopez_Term_Project_V1 (2)/Katherine_Lopez_Term_Project_V1/Katherine_Lopez_Term_Project_V1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/zumairsadeeq/Desktop/xamarian/untitled folder/Katherine_Lopez_Term_Project_V1 (2)/Katherine_Lopez_Term_Project_V1/Katherine_Lopez_Term_Project_V1.csproj",
+        "projectName": "Katherine_Lopez_Term_Project_V1",
+        "projectPath": "/Users/zumairsadeeq/Desktop/xamarian/untitled folder/Katherine_Lopez_Term_Project_V1 (2)/Katherine_Lopez_Term_Project_V1/Katherine_Lopez_Term_Project_V1.csproj",
+        "packagesPath": "/Users/zumairsadeeq/.nuget/packages/",
+        "outputPath": "/Users/zumairsadeeq/Desktop/xamarian/untitled folder/Katherine_Lopez_Term_Project_V1 (2)/Katherine_Lopez_Term_Project_V1/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/zumairsadeeq/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "Realm": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "Xamarin.Android.Support.Core.Utils": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.CustomTabs": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.3.2, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

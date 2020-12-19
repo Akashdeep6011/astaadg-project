@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "astaadg", "astaadg\astaadg.csproj", "{7FB75695-A2BD-464A-8A57-98585FBC2F7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FB75695-A2BD-464A-8A57-98585FBC2F7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FB75695-A2BD-464A-8A57-98585FBC2F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FB75695-A2BD-464A-8A57-98585FBC2F7D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7FB75695-A2BD-464A-8A57-98585FBC2F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FB75695-A2BD-464A-8A57-98585FBC2F7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FB75695-A2BD-464A-8A57-98585FBC2F7D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B82C544E-1F6B-4AEE-9F04-B88B889ADA8B}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		BaseDirectory = ../astaadg
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$0.TextStylePolicy = $2
+		$2.inheritsSet = null
+		$2.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $3
+		$3.scope = text/x-csharp
+		$0.TextStylePolicy = $4
+		$4.FileWidth = 80
+		$4.TabsToSpaces = True
+		$4.scope = text/plain
+		$0.TextStylePolicy = $5
+		$5.inheritsSet = null
+		$5.scope = application/xml
+		$0.XmlFormattingPolicy = $6
+		$6.scope = application/xml
+		$0.VersionControlPolicy = $7
+	EndGlobalSection
+EndGlobal

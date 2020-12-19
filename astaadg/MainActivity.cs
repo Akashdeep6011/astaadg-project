@@ -8,7 +8,6 @@ using Android.Views;
 using Android.Content;
 using System.Linq;
 using System;
-
 namespace astaadg
 {
     [Activity(Label = "ASTAADG", MainLauncher = true)]

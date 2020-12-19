@@ -29,7 +29,7 @@ namespace astaadg
       
             this.itemimage = Itemimage;
             this.itemquantity = Itemquantity;
-        }
+        } 
 
         public static implicit operator string(MyModel v)
         {

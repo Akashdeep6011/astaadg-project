@@ -36,5 +36,4 @@ android:layout_height="400dp"/>
 		android:textSize="40px"
 		android:layout_height="50dp"
 		 />
-
 </LinearLayout>

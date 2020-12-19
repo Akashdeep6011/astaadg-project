@@ -11,5 +11,5 @@ android:background="#eb4034"
 android:id="@+id/myImageID"
 android:layout_height="50dp"/>
 
-</LinearLayout>
+</LinearLayout> 
 

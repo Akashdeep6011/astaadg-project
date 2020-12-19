@@ -36,7 +36,6 @@ android:text="Select your grocery List:"/>
         android:id="@+id/spinnerViewID"/>
        
 
-
    <Button 
       android:id="@+id/MyButton" 
       android:layout_width = "fill_parent" 

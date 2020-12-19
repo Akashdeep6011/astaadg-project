@@ -30,7 +30,6 @@ namespace astaadg {
 
         public int itemimage { get; set; }
 
-
         public string itemimagename { get; set; }
 
     }

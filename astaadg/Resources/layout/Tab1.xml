@@ -10,7 +10,6 @@
 
 
 
-
 	<TextView
 		android:text="WELCOME "
 		android:textAlignment="center"

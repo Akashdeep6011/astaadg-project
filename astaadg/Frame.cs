@@ -32,6 +32,7 @@ namespace astaadg
             nameInfo = Intent.GetStringExtra("useremail");
             var userinfodbObj = realmDB.All<UserInfoDB>().Where(d => d.email == nameInfo.ToLower()).First();
 
+
             _FragmentsArray = new Fragment[]
             {
                 new Tab1(userinfodbObj),

@@ -30,7 +30,6 @@ namespace astaadg
         public Tab1(UserInfoDB userInfo)
         {
             this.userinfodbObj = userInfo;
-            //this.context = context;
         }
         public override void OnCreate(Bundle savedInstanceState)
         {
